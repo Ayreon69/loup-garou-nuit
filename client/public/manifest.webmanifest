@@ -1,0 +1,11 @@
+{
+  "name": "Loup-Garou pour une Nuit",
+  "short_name": "Loup-Garou",
+  "description": "Une nuit, un débat, un vote : démasquez un Loup-Garou, entre amis, de 3 à 10 joueurs.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141228",
+  "theme_color": "#141228",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
