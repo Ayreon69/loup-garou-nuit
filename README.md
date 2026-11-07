@@ -2,7 +2,7 @@
 
 **Une seule nuit, un débat, un vote. Démasque un Loup-Garou… mais méfie-toi : cette nuit, les cartes changent de main, et ton rôle avec.**
 
-👉 **Jouer : (lien à venir)** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://loup-garou-nuit.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu de rôles caché et de déduction, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation : autour d'une vraie table ou en visio.
 D'après *Loup-Garou pour une Nuit* (*One Night Ultimate Werewolf*), le jeu de Ted Alspach et Akihisa Okui. Création de fans, non officielle, avec ses propres visuels.
